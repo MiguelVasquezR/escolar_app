@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422971313042",
+    "project_id": "escolar-89f3b",
+    "storage_bucket": "escolar-89f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422971313042:android:c87fb8595b2f42e722cf4b",
+        "android_client_info": {
+          "package_name": "com.example.escolar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10nAkfotyMDVPXkUGzdYzA3tOcEnXXjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
